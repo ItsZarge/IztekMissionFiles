@@ -2,7 +2,7 @@
 <types>
 <type name="IZCOPC_Guard">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16,7 +16,7 @@
     </type>
 	<type name="IZCOPC_Guard_black">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -87,7 +87,7 @@
     </type>
 	<type name="IZCOHelmet_Guard">
         <nominal>7</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
@@ -101,7 +101,7 @@
     </type>
 	<type name="IZCO_Holster_Guard_black">
         <nominal>5</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -116,7 +116,7 @@
     </type>
 	<type name="IZCO_Holster_Guard">
         <nominal>5</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -131,7 +131,7 @@
     </type>
 	<type name="IZCO_Pouches_black">
         <nominal>5</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -145,7 +145,7 @@
     </type>
 	<type name="IZCO_Pouches">
         <nominal>5</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -159,7 +159,7 @@
     </type>
 	<type name="IZCOfacemask_grey">
         <nominal>5</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -241,7 +241,7 @@
     </type>
 	<type name="frag_Orcade">
         <nominal>2</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -256,7 +256,7 @@
     </type>
 	<type name="SodaCan_Zavana">
         <nominal>7</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>3200</lifetime>
         <restock>0</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
@@ -270,7 +270,7 @@
     </type>
 	<type name="map_iztek">
         <nominal>12</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>5000</lifetime>
         <restock>0</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
