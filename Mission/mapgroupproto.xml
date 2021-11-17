@@ -12397,8 +12397,6 @@
 		<group name="Land_Croom1_part1" lootmax="21">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="13">
-						<category name="tools" />
-						<category name="containers" />
 						<tag name="floor" />
 						<point pos="15.682742 1.707237 5.111477" range="0.5" height="1.5" /> 
 						<point pos="15.671254 1.707237 1.969341" range="0.5" height="1.5" /> 
@@ -12430,8 +12428,6 @@
 		<group name="Land_Croom1_part2" lootmax="33">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="22">
-						<category name="tools" />
-						<category name="containers" />
 						<tag name="floor" />
 						<point pos="15.564836 6.004034 6.118696" range="0.5" height="1.5" /> 
 						<point pos="13.566052 6.951150 5.885068" range="0.5" height="1.5" />
