@@ -711,7 +711,7 @@
         <active>0</active>
         <children/>
     </event>
-    <event name="Static_LootDrop"> Land_Static_LootDrop_christmas
+    <event name="Static_LootDrop">
         <nominal>2</nominal>
         <min>0</min>
         <max>0</max>
