@@ -11,12 +11,14 @@
         <category name="explosives"/>
 		<category name="armor"/>
 		<category name="antidote"/>
+		<category name="lore"/>
     </categories>
     <tags>
         <tag name="floor"/>
         <tag name="shelves"/>
         <tag name="ground"/>
 		<tag name="cfloor"/>
+        <tag name="weapons"/>
     </tags>
     <usageflags>
         <usage name="Military"/>
