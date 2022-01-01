@@ -49,8 +49,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
+        <category name="weaponsIzco"/>
 		<usage name="Izco"/>
         <value name="Tier5"/>
     </type>
@@ -415,7 +414,7 @@
         <category name="weapons"/>
     </type>
     <type name="ASVAL">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>8000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -423,7 +422,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
+        <category name="weaponsIzco"/>
         <usage name="Military"/>
 		<usage name="Izco"/>
 		<value name="Tier5"/>
@@ -10696,10 +10695,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
+        <usage name="Izco"/>
         <usage name="ContaminatedArea"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Tier5"/>
     </type>
     <type name="Magnum">
         <nominal>8</nominal>
