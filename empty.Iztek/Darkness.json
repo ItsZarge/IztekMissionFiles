@@ -1,7 +1,7 @@
 {
     "DarknessLocations": [
         {
-            "Name": "Name Here",
+            "Name": "Izco Entry",
             "DarkLight": "Dark",
             "triggerpos": "4410.33 11.85 4827.15",
             "triggermins": "-2 -1 -2",
@@ -12,7 +12,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "Izco Exit",
             "DarkLight": "Light",
             "triggerpos": "4395.63 10.2067 4835.82",
             "triggermins": "-2 -1 -2",
@@ -23,7 +23,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "Izco Entry 2",
             "DarkLight": "Dark",
             "triggerpos": "4543.99 136.41 5203.2",
             "triggermins": "-1 -1 -1",
@@ -34,7 +34,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "Izco Exit 2",
             "DarkLight": "Light",
             "triggerpos": "4543.04 140.375 5203.3",
             "triggermins": "-1 -1 -1",
@@ -45,7 +45,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "U1",
             "DarkLight": "Dark",
             "triggerpos": "4673.362305 10.523803 5917.480469",
             "triggermins": "-1 -1 -1",
@@ -56,7 +56,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "U2",
             "DarkLight": "Light",
             "triggerpos": "4418.926758 270.836792 6209.747070",
             "triggermins": "-1 -1 -1",
@@ -67,7 +67,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "U3",
             "DarkLight": "Dark",
             "triggerpos": "4681.304199 10.463702 5939.534668",
             "triggermins": "-1 -1 -1",
@@ -78,7 +78,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "U4",
             "DarkLight": "Light",
             "triggerpos": "4736.611816 181.924973 6240.099609",
             "triggermins": "-1 -1 -1",
@@ -89,7 +89,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "U5",
             "DarkLight": "Dark",
             "triggerpos": "4657.168457 10.463707 5929.474609",
             "triggermins": "-1 -1 -1",
@@ -100,7 +100,7 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "IRC Exit 1",
             "DarkLight": "Light",
             "triggerpos": "4866.050781 178.098953 6191.072754",
             "triggermins": "-1 -1 -1",
@@ -111,7 +111,51 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "IRC Exit 1a",
+            "DarkLight": "Light",
+            "triggerpos": "4867.422852 178.234009 6190.904297",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 1b",
+            "DarkLight": "Light",
+            "triggerpos": "4867.422852 178.234009 6190.904297",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 1c",
+            "DarkLight": "Light",
+            "triggerpos": "4867.422852 178.234009 6190.904297",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 1d",
+            "DarkLight": "Light",
+            "triggerpos": "4867.422852 178.234009 6190.904297",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 2",
             "DarkLight": "Light",
             "triggerpos": "4792.471191 183.447586 6249.245117",
             "triggermins": "-1 -1 -1",
@@ -122,7 +166,51 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "IRC Exit 2a",
+            "DarkLight": "Light",
+            "triggerpos": "4792.849121 183.231781 6247.931641",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 2b",
+            "DarkLight": "Light",
+            "triggerpos": "4792.849121 183.231781 6247.931641",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 2c",
+            "DarkLight": "Light",
+            "triggerpos": "4793.466309 183.180298 6249.458008",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 2d",
+            "DarkLight": "Light",
+            "triggerpos": "4790.954102 183.795944 6249.056152",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 3",
             "DarkLight": "Light",
             "triggerpos": "4822.607422 179.820602 6230.889648",
             "triggermins": "-1 -1 -1",
@@ -133,7 +221,51 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "IRC Exit 3a",
+            "DarkLight": "Light",
+            "triggerpos": "4824.434082 180.000977 6231.308105",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 3b",
+            "DarkLight": "Light",
+            "triggerpos": "4820.800781 179.724243 6230.640625",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 3c",
+            "DarkLight": "Light",
+            "triggerpos": "4820.800781 179.724243 6230.640625",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 3d",
+            "DarkLight": "Light",
+            "triggerpos": "4822.890625 179.809555 6229.505371",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 4",
             "DarkLight": "Light",
             "triggerpos": "4866.584473 183.321915 6143.109375",
             "triggermins": "-1 -1 -1",
@@ -144,9 +276,108 @@
             "soundloop": 0
         },
         {
-            "Name": "Name Here",
+            "Name": "IRC Exit 4a",
+            "DarkLight": "Light",
+            "triggerpos": "4867.926758 183.614883 6143.350098",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 4b",
+            "DarkLight": "Light",
+            "triggerpos": "4864.958496 183.075699 6142.909668",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 4c",
+            "DarkLight": "Light",
+            "triggerpos": "4866.325684 183.559555 6144.591309",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 4d",
+            "DarkLight": "Light",
+            "triggerpos": "4866.864258 183.236343 6141.554688",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 5",
             "DarkLight": "Light",
             "triggerpos": "4775.276367 152.431259 5750.964844",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 5a",
+            "DarkLight": "Light",
+            "triggerpos": "4776.211426 152.185257 5751.129395",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 5b",
+            "DarkLight": "Light",
+            "triggerpos": "4774.119629 152.642410 5750.749023",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 5c",
+            "DarkLight": "Light",
+            "triggerpos": "4774.906250 152.460983 5752.183594",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "IRC Exit 5d",
+            "DarkLight": "Light",
+            "triggerpos": "4775.708984 152.306793 5749.718750",
+            "triggermins": "-1 -1 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "darkscreen",
+            "DarkLight": "Dark",
+            "triggerpos": "4630.881348 56.459820 6036.995117",
             "triggermins": "-1 -1 -1",
             "triggermaxs": "1 1 1",
             "triggerradius": 0.0,
