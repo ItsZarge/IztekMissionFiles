@@ -1,4 +1,4 @@
-void DeleteAllItemsInMap()
+/*void DeleteAllItemsInMap()
 {
 	array<EntityAI> ents= new array<EntityAI>();
 	DayZPlayerUtils.SceneGetEntitiesInBox("0 0 0", "20000.0 1200.0 20000.0", ents);
@@ -9,7 +9,7 @@ void DeleteAllItemsInMap()
 		else if (ent && ent.IsTransport())
 			GetGame().ObjectDelete(ent);
 	} 
-};
+};*/
 
 void main()
 {
