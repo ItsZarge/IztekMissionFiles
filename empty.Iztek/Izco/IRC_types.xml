@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="IRC_BandageDressing">
         <nominal>7</nominal>
@@ -38,7 +38,7 @@
         <category name="ircmedic"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-    </type>
+    </type> 
 	<type name="DZI_AmmoBox_556x45_20Rnd">
         <nominal>2</nominal>
         <lifetime>8000</lifetime>
@@ -584,5 +584,5 @@
         <tag name="shelves"/>
 		<tag name="floor"/>
         <usage name="Military"/>
-    </type>
-</types>
+    </type> 
+</types> <!-->
