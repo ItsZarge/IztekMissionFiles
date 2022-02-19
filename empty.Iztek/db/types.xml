@@ -635,10 +635,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>11</nominal>
+        <nominal>14</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>11</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -647,10 +647,10 @@
         <usage name="Town"/>
     </type>
     <type name="AmmoBox_380_35rnd">
-        <nominal>9</nominal>
+        <nominal>13</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -659,10 +659,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -671,10 +671,10 @@
         <usage name="Military"/>
     </type>
     <type name="AmmoBox_545x39Tracer_20Rnd">
-        <nominal>9</nominal>
+        <nominal>15</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>9</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -685,10 +685,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_545x39_20Rnd">
-        <nominal>8</nominal>
+        <nominal>14</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -699,10 +699,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_556x45Tracer_20Rnd">
-        <nominal>9</nominal>
+        <nominal>16</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -715,10 +715,10 @@
 		<value name="Tier5"/>
     </type>
     <type name="AmmoBox_556x45_20Rnd">
-        <nominal>9</nominal>
+        <nominal>16</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -731,10 +731,10 @@
 		<value name="Tier5"/>
     </type>
     <type name="AmmoBox_762x39Tracer_20Rnd">
-        <nominal>9</nominal>
+        <nominal>16</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -745,10 +745,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x39_20Rnd">
-        <nominal>9</nominal>
+        <nominal>14</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>9</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -762,10 +762,10 @@
 		<value name="Tier5"/>
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
-        <nominal>7</nominal>
+        <nominal>14</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>9</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -776,10 +776,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54_20Rnd">
-        <nominal>9</nominal>
+        <nominal>14</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>9</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -794,10 +794,10 @@
 		<value name="Tier5"/>
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>13</nominal>
+        <nominal>15</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -807,10 +807,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -863,10 +863,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Ammo_12gaSlug">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -880,10 +880,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Ammo_22">
-        <nominal>18</nominal>
+        <nominal>24</nominal>
         <lifetime>5200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -894,10 +894,10 @@
         <usage name="Village"/>
     </type>
     <type name="Ammo_308Win">
-        <nominal>10</nominal>
+        <nominal>17</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>7</min>
+        <min>9</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -909,10 +909,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Ammo_308WinTracer">
-        <nominal>14</nominal>
+        <nominal>20</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>13</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -924,10 +924,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_357">
-        <nominal>14</nominal>
+        <nominal>22</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -938,10 +938,10 @@
         <usage name="Village"/>
     </type>
     <type name="Ammo_380">
-        <nominal>14</nominal>
+        <nominal>16</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -952,7 +952,7 @@
         <usage name="Village"/>
     </type>
     <type name="Ammo_45ACP">
-        <nominal>16</nominal>
+        <nominal>18</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
         <min>10</min>
@@ -965,10 +965,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_545x39">
-        <nominal>15</nominal>
+        <nominal>17</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -978,10 +978,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_545x39Tracer">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -991,10 +991,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_556x45">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>9</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1007,10 +1007,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_556x45Tracer">
-        <nominal>12</nominal>
+        <nominal>16</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1023,10 +1023,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_762x39">
-        <nominal>12</nominal>
+        <nominal>18</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1041,10 +1041,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Ammo_762x39Tracer">
-        <nominal>12</nominal>
+        <nominal>21</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>14</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1057,10 +1057,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_762x54">
-        <nominal>12</nominal>
+        <nominal>17</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1076,10 +1076,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_762x54Tracer">
-        <nominal>12</nominal>
+        <nominal>20</nominal>
         <lifetime>5200</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>11</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1092,10 +1092,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_9x19">
-        <nominal>9</nominal>
+        <nominal>14</nominal>
         <lifetime>5200</lifetime>
         <restock>800</restock>
-        <min>4</min>
+        <min>7</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -1732,7 +1732,7 @@
         <usage name="Town"/>
     </type>
     <type name="B95">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>8000</lifetime>
         <restock>2000</restock>
         <min>1</min>
@@ -1758,7 +1758,7 @@
 		<value name="Tier4"/>
     </type>
     <type name="BDUJacket">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>8000</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -1808,10 +1808,10 @@
         <category name="tools"/>
     </type>
     <type name="BakedBeansCan">
-        <nominal>8</nominal>
+        <nominal>9</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1836,7 +1836,7 @@
         <category name="food"/>
     </type>
     <type name="Balaclava3Holes_Beige">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1869,7 +1869,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Balaclava3Holes_Blue">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2066,10 +2066,10 @@
         <usage name="Medic"/>
     </type>
     <type name="BandageDressing">
-        <nominal>22</nominal>
+        <nominal>26</nominal>
         <lifetime>6000</lifetime>
         <restock>2000</restock>
-        <min>14</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3150,10 +3150,10 @@
         <usage name="Village"/>
     </type>
     <type name="BoxCerealCrunchin">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>8000</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>1000</restock>
+        <min>5</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3520,10 +3520,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>6</nominal>
+        <nominal>7</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>4</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -4041,10 +4041,10 @@
         <usage name="School"/>
     </type>
     <type name="Chips">
-        <nominal>9</nominal>
+        <nominal>12</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4568,7 +4568,7 @@
         <nominal>8</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5599,7 +5599,7 @@
         <usage name="Village"/>
     </type>
     <type name="Epinephrine">
-        <nominal>8</nominal>
+        <nominal>9</nominal>
         <lifetime>8000</lifetime>
         <restock>1000</restock>
         <min>6</min>
@@ -11658,7 +11658,7 @@
     </type>
     <type name="NBCBootsGray">
         <nominal>4</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -11675,9 +11675,9 @@
     </type>
     <type name="NBCBootsYellow">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11693,7 +11693,7 @@
     </type>
     <type name="NBCGlovesGray">
         <nominal>3</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -11709,9 +11709,9 @@
     </type>
     <type name="NBCGlovesYellow">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11727,7 +11727,7 @@
     </type>
     <type name="NBCHoodGray">
         <nominal>3</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -11743,9 +11743,9 @@
     </type>
     <type name="NBCHoodYellow">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11761,7 +11761,7 @@
     </type>
     <type name="NBCJacketGray">
         <nominal>3</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -11777,9 +11777,9 @@
     </type>
     <type name="NBCJacketYellow">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11795,7 +11795,7 @@
     </type>
     <type name="NBCPantsGray">
         <nominal>3</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -11811,7 +11811,7 @@
     </type>
     <type name="NBCPantsYellow">
         <nominal>2</nominal>
-        <lifetime>8000</lifetime>
+        <lifetime>6000</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
