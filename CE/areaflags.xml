@@ -80,120 +80,6 @@
     </layers>
     <!--Territories-->
     <territory-type-list>
-        <territory-type name="pig_territories">
-            <territory name="Pig_01" visible="0" color="872381884">
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1337.33" z="4912" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1402.67" z="5380" r="50" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="1502.67" z="5122.67" r="120" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1177.33" z="5132" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1742.67" z="5062.67" r="50" d="2"/>
-            </territory>
-            <territory name="Pig_02" visible="0" color="872381884">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="3638.67" z="3057.33" r="80" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3800" z="2985.33" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3745.33" z="3189.33" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3669.33" z="2912" r="50" d="2"/>
-            </territory>
-            <territory name="Pig_Pilava" visible="0" color="872381884">
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5273.98" z="3344.4" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5474.81" z="3367.07" r="80" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5618.81" z="3206.4" r="80" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5282.98" z="3300.74" r="60" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5211.98" z="3350.91" r="60" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5247.81" z="3466.57" r="50" d="2"/>
-            </territory>
-        </territory-type>
-        <territory-type name="roe_deer_territories">
-            <territory name="RoeDeer_MidWoods" visible="0" color="1090519295">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4052" z="4516" r="200" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3428" z="4592" r="150" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4636" z="4756" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3692" z="4000" r="150" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4184" z="3636" r="100" d="2"/>
-            </territory>
-            <territory name="RoeDeer_swWoods2" visible="0" color="1056964863">
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2996" z="1416" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3356" z="1072" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3180" z="1232" r="180" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2736" z="1276" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2868" z="1236" r="100" d="2"/>
-            </territory>
-            <territory name="RoeDeer_swWoods" visible="0" color="1056964863">
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4968" z="1992" r="100" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4796" z="1400" r="200" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4340" z="1168" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4372" z="1860" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3704" z="1148" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4088" z="2352" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5104" z="1968" r="100" d="2"/>
-            </territory>
-            <territory name="RoeDeer_MidWest" visible="0" color="1056964863">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="2828" z="3048" r="250" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2624" z="2624" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3364" z="3408" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2232" z="3360" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2412" z="3044" r="100" d="2"/>
-            </territory>
-            <territory name="RoeDeer_Iztek" visible="0" color="1090519295">
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3649.17" z="6333.33" r="120" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4181.67" z="5998.33" r="105" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3301.67" z="6290.83" r="105" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4101.67" z="6378.33" r="80" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3771.67" z="6138.33" r="97.5" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3044.17" z="6510.83" r="67.5" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3364.17" z="6448.33" r="100" d="2"/>
-            </territory>
-        </territory-type>
-        <territory-type name="wolf_territories">
-            <territory name="Wolf2" visible="0" color="1895825408">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="3592" z="5877.33" r="300" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3566.67" z="6445.33" r="200" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3218.67" z="6458.67" r="80" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3081.33" z="5892" r="80" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2941.33" z="6293.33" r="80" d="2"/>
-            </territory>
-            <territory name="Wolf3" visible="0" color="1560281088">
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4342.67" z="4400" r="150" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4176" z="4881.33" r="80" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4638.67" z="5046.67" r="80" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5070.67" z="4423.33" r="80" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4702.67" z="4218.67" r="200" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5056" z="4804" r="160" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4900" z="5148" r="150" d="2"/>
-            </territory>
-            <territory name="Wolf1" visible="0" color="2298478592">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="1760" z="5338.67" r="155" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1562.67" z="5705.33" r="250" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1298.67" z="5065.33" r="160" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1752" z="5064" r="80" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1581.33" z="4750.67" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2049.33" z="4981.33" r="80" d="2"/>
-            </territory>
-            <territory name="Wolf4" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5066" z="6510" r="200" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5180" z="6100" r="200" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5738" z="6584" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4688" z="6344" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4874" z="5748" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5568" z="6959.33" r="100" d="2"/>
-            </territory>
-        </territory-type>
-        <territory-type name="wild_boar_territories">
-            <territory name="Boar_south" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4088" z="1744" r="300" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3444" z="2132" r="170" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4748" z="1352" r="170" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4096" z="2360" r="170" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2936" z="1644" r="170" d="2"/>
-            </territory>
-            <territory name="Boar_Iztek" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4056" z="5552" r="300" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4284" z="6072" r="110" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3540" z="6396" r="110" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3724" z="6096" r="180" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4348" z="6452" r="140" d="2"/>
-            </territory>
-        </territory-type>
         <territory-type name="red_deer_territories">
             <territory name="RedDeer_Ozerki" visible="0" color="856817408">
                 <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5552.57" z="6799.86" r="105" d="2"/>
@@ -207,59 +93,364 @@
                 <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6108" z="6052" r="250" d="2"/>
             </territory>
         </territory-type>
-        <territory-type name="hen_territories">
-            <territory name="Hen_Viska" visible="0" color="1493150208">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4222" z="1406" r="200" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4424" z="1468" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4334" z="1678" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4162" z="1648" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4232" z="1292" r="100" d="2"/>
+        <territory-type name="wild_boar_territories">
+            <territory name="Boar_Iztek" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4056" z="5552" r="300" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4284" z="6072" r="110" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3540" z="6396" r="110" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3724" z="6096" r="180" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4348" z="6452" r="140" d="2"/>
             </territory>
-            <territory name="Tavaruk1" visible="0" color="4294964644">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6885.33" z="1387.33" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6993.33" z="1500" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6893.33" z="1540" r="50" d="2"/>
+            <territory name="Boar_south" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4088" z="1744" r="300" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3444" z="2132" r="170" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4748" z="1352" r="170" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4096" z="2360" r="170" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2936" z="1644" r="170" d="2"/>
             </territory>
-            <territory name="Melingrad" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="2845.33" z="5298.67" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2689.33" z="5300" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2644" z="5396" r="50" d="2"/>
+        </territory-type>
+        <territory-type name="wolf_territories">
+            <territory name="Wolf4" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5066" z="6510" r="200" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5180" z="6100" r="200" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5738" z="6584" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4688" z="6344" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4874" z="5748" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5568" z="6959.33" r="100" d="2"/>
             </territory>
-            <territory name="Hen_DomikPetrova" visible="0" color="1023388160">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="2789.33" z="1028" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2866.67" z="1074.67" r="75" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2841.33" z="990.667" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2692" z="1004" r="70" d="2"/>
+            <territory name="Wolf1" visible="0" color="2298478592">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="1760" z="5338.67" r="155" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1562.67" z="5705.33" r="250" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1298.67" z="5065.33" r="160" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1752" z="5064" r="80" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1581.33" z="4750.67" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2049.33" z="4981.33" r="80" d="2"/>
             </territory>
-            <territory name="Tavaruk2" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6777.33" z="1789.33" r="70" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6910.67" z="1841.33" r="70" d="2"/>
+            <territory name="Wolf3" visible="0" color="1560281088">
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4342.67" z="4400" r="150" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4176" z="4881.33" r="80" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4638.67" z="5046.67" r="80" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5070.67" z="4423.33" r="80" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4702.67" z="4218.67" r="200" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5056" z="4804" r="160" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4900" z="5148" r="150" d="2"/>
             </territory>
-            <territory name="Hen_Borisovo" visible="0" color="1073719808">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5168" z="896" r="160" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5104" z="1164" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5366" z="1338" r="160" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5622" z="1264" r="160" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5554" z="958" r="120" d="2"/>
+            <territory name="Wolf2" visible="0" color="1895825408">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="3592" z="5877.33" r="300" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3566.67" z="6445.33" r="200" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3218.67" z="6458.67" r="80" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3081.33" z="5892" r="80" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2941.33" z="6293.33" r="80" d="2"/>
             </territory>
-            <territory name="Hen_Midroc" visible="0" color="1056942592">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5648" z="2620" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5482.67" z="2674.67" r="60" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5566.67" z="2578.67" r="60" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5761.33" z="2556" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5732" z="2689.33" r="100" d="2"/>
+        </territory-type>
+        <territory-type name="roe_deer_territories">
+            <territory name="RoeDeer_swWoods2" visible="0" color="1056964863">
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2996" z="1416" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3356" z="1072" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3180" z="1232" r="180" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2736" z="1276" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2868" z="1236" r="100" d="2"/>
             </territory>
-            <territory name="Selina" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6656" z="850.667" r="70" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6749.33" z="965.333" r="70" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6582.67" z="726.667" r="70" d="2"/>
+            <territory name="RoeDeer_MidWoods" visible="0" color="1090519295">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4052" z="4516" r="200" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3428" z="4592" r="150" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4636" z="4756" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3692" z="4000" r="150" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4184" z="3636" r="100" d="2"/>
+            </territory>
+            <territory name="RoeDeer_Iztek" visible="0" color="1090519295">
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3649.17" z="6333.33" r="120" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4181.67" z="5998.33" r="105" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3301.67" z="6290.83" r="105" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4101.67" z="6378.33" r="80" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3771.67" z="6138.33" r="97.5" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3044.17" z="6510.83" r="67.5" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3364.17" z="6448.33" r="100" d="2"/>
+            </territory>
+            <territory name="RoeDeer_MidWest" visible="0" color="1056964863">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="2828" z="3048" r="250" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2624" z="2624" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3364" z="3408" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2232" z="3360" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2412" z="3044" r="100" d="2"/>
+            </territory>
+            <territory name="RoeDeer_swWoods" visible="0" color="1056964863">
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4968" z="1992" r="100" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4796" z="1400" r="200" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4340" z="1168" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4372" z="1860" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3704" z="1148" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4088" z="2352" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5104" z="1968" r="100" d="2"/>
+            </territory>
+        </territory-type>
+        <territory-type name="pig_territories">
+            <territory name="Pig_Pilava" visible="0" color="872381884">
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5273.98" z="3344.4" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5474.81" z="3367.07" r="80" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5618.81" z="3206.4" r="80" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5282.98" z="3300.74" r="60" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5211.98" z="3350.91" r="60" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5247.81" z="3466.57" r="50" d="2"/>
+            </territory>
+            <territory name="Pig_02" visible="0" color="872381884">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="3638.67" z="3057.33" r="80" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3800" z="2985.33" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3745.33" z="3189.33" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3669.33" z="2912" r="50" d="2"/>
+            </territory>
+            <territory name="Pig_01" visible="0" color="872381884">
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1337.33" z="4912" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1402.67" z="5380" r="50" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="1502.67" z="5122.67" r="120" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1177.33" z="5132" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1742.67" z="5062.67" r="50" d="2"/>
+            </territory>
+        </territory-type>
+        <territory-type name="hare_territories"/>
+        <territory-type name="sheep_goat_territories">
+            <territory name="Sheep_02" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5328" z="4692" r="100" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5126" z="4639.33" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5464" z="4549" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5181" z="4726" r="50" d="2"/>
+            </territory>
+            <territory name="Sheep_01" visible="0" color="872412928">
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3116.8" z="3376.8" r="92" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2857.33" z="3673.33" r="120" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3017.33" z="3821.33" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3124" z="3596" r="50" d="2"/>
+            </territory>
+            <territory name="Sheep_Drezna" visible="0" color="872412928">
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5297" z="5342" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5438" z="5309" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5362" z="5175" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5200" z="5081" r="50" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5192" z="5227" r="100" d="2"/>
+            </territory>
+            <territory name="Sheep_Azak" visible="0" color="872412928">
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6704.15" z="4595.92" r="80" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6262.69" z="4656" r="120" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5989.28" z="4833.26" r="120" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6196.78" z="4316.62" r="140" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6494.38" z="4767.15" r="120" d="2"/>
+            </territory>
+            <territory name="Sheep_Pilava" visible="0" color="872412928">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5271" z="3299" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5423" z="3257" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5039" z="3484" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5189" z="3390" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5146" z="3194" r="50" d="2"/>
+            </territory>
+        </territory-type>
+        <territory-type name="cattle_territories">
+            <territory name="cattle_anitova" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="3326.67" z="2961.33" r="200" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3434.67" z="3398.67" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3045.33" z="3232" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3854.67" z="3144" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3889.33" z="2837.33" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3176" z="2696" r="100" d="2"/>
+            </territory>
+            <territory name="cattle_azak" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6216" z="4386" r="250" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6112" z="4750" r="100" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5818" z="4552" r="100" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5888" z="4258" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6510" z="4784" r="150" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6398" z="5200" r="120" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6680" z="5128" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6846" z="5566" r="200" d="2"/>
+            </territory>
+        </territory-type>
+        <territory-type name="bear_territories">
+            <territory name="Bear1" visible="0" color="1908342784">
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5630" z="6870" r="200" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6072" z="5920" r="300" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6832" z="6132" r="210" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6360" z="6518" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5904" z="7350" r="75" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6088" z="7028" r="250" d="2"/>
+            </territory>
+            <territory name="Bear2" visible="0" color="4294902015">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4936" z="4624" r="250" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5832" z="4492" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4584" z="3868" r="100" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5244" z="4684" r="100" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5620" z="4984" r="250" d="2"/>
+            </territory>
+            <territory name="Bear3" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4432" z="3900" r="200" d="2"/>
+                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3836" z="4008" r="200" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4172" z="3622" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3924" z="3696" r="100" d="2"/>
             </territory>
         </territory-type>
         <territory-type name="zombie_territories">
-            <territory name="Industrial" visible="0" color="1102461653">
-                <zone name="InfectedIndustrial" smin="2" smax="3" dmin="2" dmax="6" x="2556" z="5243.2" r="112" d="2"/>
+            <territory name="IndustrialT2" visible="1" color="4292911615">
+                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="10" dmax="21" x="2404" z="3888" r="160" d="2"/>
+                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="10" dmax="22" x="6688" z="3660" r="140" d="2"/>
+                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="7" dmax="16" x="6600" z="3912" r="112" d="2"/>
+                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="3474" z="5368" r="200" d="2"/>
+                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="10" x="814" z="3963" r="100" d="2"/>
             </territory>
-            <territory name="Solitude" visible="0" color="1910952871">
+            <territory name="City" visible="1" color="1136576269">
+                <zone name="InfectedCity" smin="3" smax="6" dmin="5" dmax="9" x="5348" z="1084" r="420" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="4" dmin="10" dmax="15" x="5640" z="2608" r="240" d="2"/>
+                <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="8" x="3532" z="2892" r="240" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="21" x="6388" z="3936" r="160" d="2"/>
+            </territory>
+            <territory name="Firefighter" visible="1" color="1790009876">
+                <zone name="InfectedFirefighter" smin="2" smax="5" dmin="2" dmax="5" x="5579.85" z="1150.25" r="60" d="2"/>
+                <zone name="InfectedFirefighter" smin="1" smax="2" dmin="2" dmax="5" x="6530.12" z="3474.31" r="50" d="2"/>
+                <zone name="InfectedFirefighter" smin="1" smax="2" dmin="2" dmax="5" x="6624.8" z="1631.2" r="50" d="2"/>
+            </territory>
+            <territory name="CityT1" visible="1" color="4287731209">
+                <zone name="InfectedCity" smin="4" smax="7" dmin="4" dmax="12" x="5370.67" z="901.333" r="140" d="2"/>
+                <zone name="InfectedCity" smin="4" smax="5" dmin="5" dmax="10" x="5616.8" z="924.27" r="100" d="2"/>
+                <zone name="InfectedCity" smin="4" smax="7" dmin="4" dmax="9" x="5393.67" z="1303.67" r="100" d="2"/>
+                <zone name="InfectedCity" smin="3" smax="5" dmin="4" dmax="10" x="5101.33" z="1292" r="100" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="4" dmin="4" dmax="8" x="5712" z="2657" r="50" d="2"/>
+                <zone name="InfectedCity" smin="1" smax="2" dmin="5" dmax="8" x="5741" z="2546" r="60" d="2"/>
+                <zone name="InfectedCity" smin="1" smax="2" dmin="3" dmax="8" x="5570" z="2682" r="60" d="2"/>
+                <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="5" x="5492" z="3375" r="60" d="2"/>
+                <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="13" x="3418.4" z="2811.8" r="120" d="2"/>
+                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="1" dmax="4" x="6706.4" z="3551.2" r="50" d="2"/>
+                <zone name="InfectedCity" smin="6" smax="10" dmin="5" dmax="10" x="6453.33" z="3516.67" r="50" d="2"/>
+                <zone name="InfectedCity" smin="6" smax="10" dmin="3" dmax="8" x="6612" z="3461.33" r="50" d="2"/>
+            </territory>
+            <territory name="Prisoner" visible="1" color="1289674462">
+                <zone name="InfectedPrisoner" smin="0" smax="0" dmin="4" dmax="12" x="1042.57" z="3668.19" r="50" d="2"/>
+                <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="5" x="796.667" z="4070" r="100" d="2"/>
+            </territory>
+            <territory name="VillageT2" visible="1" color="2701066240">
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="1525.33" z="5918.67" r="100" d="2"/>
+                <zone name="InfectedVillage" smin="2" smax="5" dmin="6" dmax="12" x="3098" z="7230.67" r="150" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="2809.33" z="6809.33" r="100" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="1782.67" z="4987.33" r="160" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="5262" z="5267" r="140" d="2"/>
+                <zone name="InfectedIndustrial" smin="2" smax="3" dmin="6" dmax="11" x="2593.6" z="5456" r="80" d="2"/>
+                <zone name="InfectedMedic" smin="1" smax="3" dmin="7" dmax="16" x="5808" z="5749.6" r="100" d="2"/>
+                <zone name="" smin="1" smax="3" dmin="5" dmax="8" x="1293.6" z="5051.8" r="50" d="2"/>
+                <zone name="" smin="0" smax="2" dmin="3" dmax="6" x="1032.47" z="4870.73" r="80" d="2"/>
+                <zone name="InfectedVillage" smin="2" smax="4" dmin="5" dmax="15" x="6299.33" z="4018.67" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="2" smax="4" dmin="5" dmax="15" x="6408" z="3850.67" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="5" dmax="10" x="3534" z="3009" r="80" d="2"/>
+                <zone name="" smin="1" smax="3" dmin="3" dmax="8" x="1390.4" z="5155.2" r="50" d="2"/>
+                <zone name="" smin="1" smax="3" dmin="3" dmax="8" x="1273.6" z="5165.6" r="50" d="2"/>
+                <zone name="" smin="1" smax="3" dmin="3" dmax="8" x="1336" z="5248" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="2980" z="4104" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="1058.67" z="5030.67" r="80" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6982.86" z="1582.29" r="50" d="2"/>
+            </territory>
+            <territory name="Army" visible="1" color="1124502272">
+                <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="8" x="5440.83" z="1401.17" r="80" d="2"/>
+                <zone name="InfectedArmy" smin="2" smax="4" dmin="6" dmax="12" x="5474" z="3853" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="2" smax="3" dmin="3" dmax="6" x="6381.7" z="3712.35" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="9" x="3112.5" z="2886.5" r="80" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="15" x="1048.8" z="3697.6" r="100" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="4" x="1127.6" z="3963" r="100" d="2"/>
+                <zone name="InfectedArmy" smin="2" smax="4" dmin="5" dmax="12" x="3518.6" z="5396.86" r="80" d="2"/>
+                <zone name="InfectedArmy" smin="2" smax="8" dmin="8" dmax="15" x="4303.14" z="4756.75" r="60" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="10" x="1226.66" z="7261.87" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1354.13" z="6932.93" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="7" x="1347.33" z="7300.67" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="3" dmin="2" dmax="6" x="1482.66" z="6671" r="60" d="2"/>
+                <zone name="InfectedArmy" smin="2" smax="3" dmin="3" dmax="8" x="4202.4" z="6452.8" r="90" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="1" dmin="3" dmax="7" x="790.267" z="4827.87" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="2" x="3388.67" z="2750" r="80" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="2" dmin="4" dmax="8" x="4584" z="4661" r="100" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="4226" z="4948" r="100" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="4" dmin="2" dmax="5" x="4190" z="4673" r="80" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="2" dmin="1" dmax="5" x="1247.33" z="7151.6" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="9" x="1397.33" z="7030.13" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="2" dmin="5" dmax="10" x="769.333" z="4726.67" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4008.29" z="2801.67" r="60" d="2"/>
+                <zone name="InfectedArmy" smin="1" smax="2" dmin="5" dmax="10" x="3523.2" z="5172" r="62" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="4189.86" z="2331.38" r="70" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="5650.55" z="6340.73" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="2440.67" z="2202" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="2" x="4662.13" z="1369.13" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="2" x="2145.33" z="4514" r="50" d="2"/>
+            </territory>
+            <territory name="CityT2" visible="1" color="1219013898">
+                <zone name="InfectedCity" smin="2" smax="4" dmin="5" dmax="15" x="6430.67" z="3425.33" r="50" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="4" dmin="5" dmax="15" x="6360.67" z="3590.67" r="50" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="4" dmin="3" dmax="7" x="6556" z="3548.67" r="50" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="6" dmin="5" dmax="10" x="6654.67" z="3381.33" r="50" d="2"/>
+            </territory>
+            <territory name="IndustrialT1" visible="1" color="4290483455">
+                <zone name="InfectedIndustrial" smin="3" smax="4" dmin="6" dmax="10" x="5097.71" z="1084" r="160" d="2"/>
+                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="5" dmax="9" x="5629.57" z="2501.23" r="50" d="2"/>
+                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="1" dmax="5" x="5395" z="3331.5" r="60" d="2"/>
+                <zone name="InfectedIndustrial" smin="1" smax="1" dmin="3" dmax="9" x="6634.67" z="3802.67" r="80" d="2"/>
+                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="2" dmax="5" x="6846.4" z="1645.6" r="50" d="2"/>
+            </territory>
+            <territory name="Police" visible="1" color="1794965508">
+                <zone name="InfectedPolice" smin="1" smax="2" dmin="3" dmax="5" x="5253.2" z="1274.2" r="100" d="2"/>
+                <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="5" x="5612" z="2660" r="50" d="2"/>
+                <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="5" x="3515.5" z="2950" r="60" d="2"/>
+                <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="4" x="6364.41" z="3739.9" r="50" d="2"/>
+                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="2" dmax="5" x="2704.93" z="5325.87" r="50" d="2"/>
+                <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="8" x="3509.67" z="4209" r="50" d="2"/>
+                <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="966" z="3842" r="50" d="2"/>
+                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="4" x="863" z="3844" r="50" d="2"/>
+                <zone name="InfectedPolice" smin="1" smax="2" dmin="2" dmax="5" x="7160.8" z="1678.4" r="50" d="2"/>
+            </territory>
+            <territory name="Medic" visible="1" color="2387830984">
+                <zone name="InfectedMedic" smin="3" smax="4" dmin="4" dmax="6" x="5654.67" z="1077.33" r="50" d="2"/>
+                <zone name="InfectedMedic" smin="1" smax="2" dmin="3" dmax="6" x="5553.1" z="2595.2" r="55" d="2"/>
+                <zone name="InfectedMedic" smin="1" smax="2" dmin="1" dmax="5" x="5812.8" z="5749.14" r="50" d="2"/>
+                <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="3600.67" z="2911.33" r="50" d="2"/>
+                <zone name="InfectedMedic" smin="1" smax="2" dmin="1" dmax="4" x="2556.8" z="5478.13" r="50" d="2"/>
+                <zone name="InfectedMedic" smin="2" smax="4" dmin="3" dmax="8" x="6852.57" z="1464" r="50" d="2"/>
+                <zone name="InfectedMedic" smin="2" smax="4" dmin="1" dmax="4" x="6356" z="3638.67" r="50" d="2"/>
+            </territory>
+            <territory name="Religious" visible="1" color="4278190080">
+                <zone name="InfectedReligious" smin="1" smax="2" dmin="2" dmax="4" x="5436" z="5244" r="60" d="2"/>
+                <zone name="InfectedReligious" smin="1" smax="2" dmin="2" dmax="4" x="5624" z="1380" r="120" d="2"/>
+                <zone name="InfectedReligious" smin="1" smax="2" dmin="1" dmax="4" x="3391" z="2746" r="50" d="2"/>
+                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="3412" z="2212" r="100" d="2"/>
+                <zone name="InfectedReligious" smin="1" smax="2" dmin="2" dmax="7" x="6206.67" z="7293.33" r="100" d="2"/>
+                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="1" x="7077.71" z="6660.57" r="50" d="2"/>
+            </territory>
+            <territory name="VillageT1" visible="1" color="2612630129">
+                <zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="6" x="4154.6" z="1310.4" r="100" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="1" dmin="1" dmax="4" x="5468.67" z="3348.67" r="100" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="3364" z="2232" r="100" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="3573.4" z="2840.8" r="120" d="2"/>
+                <zone name="InfectedSolitude" smin="1" smax="3" dmin="2" dmax="6" x="2853.33" z="6164" r="80" d="2"/>
+                <zone name="InfectedVillage" smin="2" smax="4" dmin="5" dmax="12" x="6373.33" z="3942.67" r="80" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="6042.4" z="1890.4" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="5716" z="1831.2" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="4555.33" z="2555.56" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="4773.78" z="2783.56" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="3825.33" z="2524" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="2923.2" z="3724.8" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="3636.89" z="4563.11" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="5466.67" z="1665.33" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="2262.67" z="4546.67" r="80" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="6600" z="5228" r="150" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="6800" z="5468" r="60" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="6952" z="5680" r="60" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="6412.8" z="4184.8" r="60" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="4447.2" z="4180" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6640" z="792.8" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="3" dmax="7" x="6682.4" z="897.6" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6931.2" z="954.133" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="7176" z="1356" r="50" d="2"/>
+                <zone name="InfectedCity" smin="2" smax="4" dmin="4" dmax="9" x="6539.33" z="1323" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6902.44" z="1382.67" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6959.11" z="1512.44" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6996.78" z="1720.29" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="7250.4" z="1659.2" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="3" dmax="6" x="7196" z="1767.2" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="5" x="6777.6" z="1796.8" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="6921.33" z="1867.33" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6568" z="1225.33" r="50" d="2"/>
+                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="4069" z="1480" r="80" d="2"/>
+            </territory>
+            <territory name="Solitude" visible="1" color="1910952871">
                 <zone name="InfectedSolitude" smin="1" smax="2" dmin="1" dmax="4" x="5097.5" z="758" r="100" d="2"/>
                 <zone name="InfectedSolitude" smin="4" smax="7" dmin="8" dmax="14" x="3022.51" z="1370.4" r="130" d="2"/>
                 <zone name="InfectedSolitude" smin="2" smax="2" dmin="4" dmax="8" x="3432" z="2152" r="100" d="2"/>
@@ -284,247 +475,57 @@
                 <zone name="InfectedSolitude" smin="2" smax="3" dmin="5" dmax="10" x="4540" z="2080" r="300" d="2"/>
                 <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2042" z="2941" r="50" d="2"/>
             </territory>
-            <territory name="VillageT1" visible="0" color="2612630129">
-                <zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="8" x="4154.6" z="1310.4" r="100" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="1" dmin="1" dmax="4" x="5468.67" z="3348.67" r="100" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="3364" z="2232" r="100" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="8" x="3573.4" z="2840.8" r="120" d="2"/>
-                <zone name="InfectedSolitude" smin="1" smax="3" dmin="2" dmax="6" x="2853.33" z="6164" r="80" d="2"/>
-                <zone name="InfectedVillage" smin="2" smax="4" dmin="5" dmax="12" x="6373.33" z="3942.67" r="80" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="6042.4" z="1890.4" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="5716" z="1831.2" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="4555.33" z="2555.56" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="4773.78" z="2783.56" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="3825.33" z="2524" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="2923.2" z="3724.8" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="3636.89" z="4563.11" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="5466.67" z="1665.33" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="1" dmax="5" x="2220" z="4412" r="80" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="6600" z="5228" r="150" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="6800" z="5468" r="60" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="6" x="6952" z="5680" r="60" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="6412.8" z="4184.8" r="60" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="4447.2" z="4180" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6640" z="792.8" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="3" dmax="7" x="6682.4" z="897.6" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6931.2" z="954.133" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="7176" z="1356" r="50" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="4" dmin="4" dmax="9" x="6539.33" z="1323" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6902.44" z="1382.67" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6959.11" z="1512.44" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6995.64" z="1680.29" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="7250.4" z="1659.2" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="3" dmax="6" x="7196" z="1767.2" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="5" x="6777.6" z="1796.8" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="6921.33" z="1867.33" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="6568" z="1225.33" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="4069" z="1480" r="80" d="2"/>
-            </territory>
-            <territory name="Religious" visible="0" color="4278190080">
-                <zone name="InfectedReligious" smin="1" smax="2" dmin="2" dmax="4" x="5436" z="5244" r="60" d="2"/>
-                <zone name="InfectedReligious" smin="1" smax="2" dmin="2" dmax="4" x="5624" z="1380" r="120" d="2"/>
-                <zone name="InfectedReligious" smin="1" smax="2" dmin="1" dmax="4" x="3391" z="2746" r="50" d="2"/>
-                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="3412" z="2212" r="100" d="2"/>
-                <zone name="InfectedReligious" smin="1" smax="2" dmin="2" dmax="7" x="6206.67" z="7293.33" r="100" d="2"/>
-                <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="1" x="7077.71" z="6660.57" r="50" d="2"/>
-            </territory>
-            <territory name="Medic" visible="0" color="2387830984">
-                <zone name="InfectedMedic" smin="3" smax="4" dmin="4" dmax="6" x="5654.67" z="1077.33" r="50" d="2"/>
-                <zone name="InfectedMedic" smin="1" smax="2" dmin="3" dmax="6" x="5553.1" z="2595.2" r="55" d="2"/>
-                <zone name="InfectedMedic" smin="1" smax="2" dmin="1" dmax="5" x="5812.8" z="5749.14" r="50" d="2"/>
-                <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="3600.67" z="2911.33" r="50" d="2"/>
-                <zone name="InfectedMedic" smin="1" smax="2" dmin="1" dmax="4" x="2556.8" z="5478.13" r="50" d="2"/>
-                <zone name="InfectedMedic" smin="2" smax="4" dmin="3" dmax="8" x="6852.57" z="1464" r="50" d="2"/>
-                <zone name="InfectedMedic" smin="2" smax="4" dmin="1" dmax="4" x="6356" z="3638.67" r="50" d="2"/>
-            </territory>
-            <territory name="Police" visible="0" color="1794965508">
-                <zone name="InfectedPolice" smin="1" smax="2" dmin="3" dmax="5" x="5253.2" z="1274.2" r="100" d="2"/>
-                <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="5" x="5612" z="2660" r="50" d="2"/>
-                <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="5" x="3515.5" z="2950" r="60" d="2"/>
-                <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="4" x="6364.41" z="3739.9" r="50" d="2"/>
-                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="2" dmax="5" x="2704.93" z="5325.87" r="50" d="2"/>
-                <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="8" x="3509.67" z="4209" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="966" z="3842" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="863" z="3844" r="50" d="2"/>
-                <zone name="InfectedPolice" smin="1" smax="2" dmin="2" dmax="5" x="7160.8" z="1678.4" r="50" d="2"/>
-            </territory>
-            <territory name="IndustrialT1" visible="0" color="4290483455">
-                <zone name="InfectedIndustrial" smin="3" smax="4" dmin="6" dmax="10" x="5097.71" z="1084" r="160" d="2"/>
-                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="5" dmax="9" x="5629.57" z="2501.23" r="50" d="2"/>
-                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="1" dmax="5" x="5395" z="3331.5" r="60" d="2"/>
-                <zone name="InfectedIndustrial" smin="1" smax="1" dmin="3" dmax="9" x="6634.67" z="3802.67" r="80" d="2"/>
-                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="2" dmax="5" x="6846.4" z="1645.6" r="50" d="2"/>
-            </territory>
-            <territory name="Army" visible="0" color="1124502272">
-                <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="8" x="5440.83" z="1401.17" r="80" d="2"/>
-                <zone name="InfectedArmy" smin="2" smax="4" dmin="6" dmax="12" x="5474" z="3853" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="2" smax="3" dmin="3" dmax="6" x="6381.7" z="3712.35" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="9" x="3112.5" z="2886.5" r="80" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="15" x="1048.8" z="3697.6" r="100" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="4" x="1127.6" z="3963" r="100" d="2"/>
-                <zone name="InfectedArmy" smin="2" smax="4" dmin="5" dmax="12" x="3518.6" z="5396.86" r="80" d="2"/>
-                <zone name="InfectedArmy" smin="2" smax="8" dmin="8" dmax="15" x="4303.14" z="4756.75" r="60" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="10" x="1226.66" z="7261.87" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1354.13" z="6932.93" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="7" x="1347.33" z="7300.67" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="3" dmin="2" dmax="6" x="1482.66" z="6671" r="60" d="2"/>
-                <zone name="InfectedArmy" smin="2" smax="3" dmin="3" dmax="8" x="4202.4" z="6452.8" r="90" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="1" dmin="3" dmax="7" x="790.267" z="4827.87" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="2" x="3388.67" z="2750" r="80" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="2" dmin="4" dmax="8" x="4584" z="4661" r="100" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="4226" z="4948" r="100" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="4" dmin="2" dmax="5" x="4190" z="4673" r="80" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="2" dmin="1" dmax="5" x="1247.33" z="7151.6" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="9" x="1397.33" z="7030.13" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="2" dmin="5" dmax="10" x="769.333" z="4726.67" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4008.29" z="2801.67" r="60" d="2"/>
-                <zone name="InfectedArmy" smin="1" smax="2" dmin="5" dmax="10" x="3523.2" z="5172" r="62" d="2"/>
-                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="8" x="4189.86" z="2331.38" r="70" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="5650.55" z="6340.73" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="2440.67" z="2202" r="50" d="2"/>
-                <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="2" x="4662.13" z="1369.13" r="50" d="2"/>
-            </territory>
-            <territory name="Prisoner" visible="0" color="1289674462">
-                <zone name="InfectedPrisoner" smin="0" smax="0" dmin="4" dmax="12" x="1042.57" z="3668.19" r="50" d="2"/>
-                <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="5" x="796.667" z="4070" r="100" d="2"/>
-            </territory>
-            <territory name="CityT2" visible="0" color="1219013898">
-                <zone name="InfectedCity" smin="2" smax="4" dmin="5" dmax="15" x="6430.67" z="3425.33" r="50" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="4" dmin="5" dmax="15" x="6360.67" z="3590.67" r="50" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="4" dmin="3" dmax="7" x="6556" z="3548.67" r="50" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="6" dmin="5" dmax="10" x="6654.67" z="3381.33" r="50" d="2"/>
-            </territory>
-            <territory name="VillageT2" visible="0" color="2701066240">
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="1525.33" z="5918.67" r="100" d="2"/>
-                <zone name="InfectedVillage" smin="2" smax="5" dmin="6" dmax="12" x="3098" z="7230.67" r="150" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="2809.33" z="6809.33" r="100" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="1792" z="5062" r="160" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="5262" z="5267" r="140" d="2"/>
-                <zone name="InfectedIndustrial" smin="2" smax="3" dmin="6" dmax="11" x="2593.6" z="5456" r="80" d="2"/>
-                <zone name="InfectedMedic" smin="1" smax="3" dmin="7" dmax="16" x="5808" z="5749.6" r="100" d="2"/>
-                <zone name="" smin="1" smax="3" dmin="5" dmax="8" x="1293.6" z="5051.8" r="50" d="2"/>
-                <zone name="" smin="0" smax="2" dmin="3" dmax="6" x="1032.47" z="4870.73" r="80" d="2"/>
-                <zone name="InfectedVillage" smin="2" smax="4" dmin="5" dmax="15" x="6299.33" z="4018.67" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="2" smax="4" dmin="5" dmax="15" x="6408" z="3850.67" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="5" dmax="10" x="3534" z="3009" r="80" d="2"/>
-                <zone name="" smin="1" smax="3" dmin="3" dmax="8" x="1390.4" z="5155.2" r="50" d="2"/>
-                <zone name="" smin="1" smax="3" dmin="3" dmax="8" x="1273.6" z="5165.6" r="50" d="2"/>
-                <zone name="" smin="1" smax="3" dmin="3" dmax="8" x="1336" z="5248" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="2980" z="4104" r="50" d="2"/>
-                <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="1058.67" z="5030.67" r="80" d="2"/>
-                <zone name="InfectedVillage" smin="1" smax="2" dmin="2" dmax="4" x="6982.86" z="1582.29" r="50" d="2"/>
-            </territory>
-            <territory name="CityT1" visible="0" color="4287731209">
-                <zone name="InfectedCity" smin="4" smax="7" dmin="4" dmax="12" x="5370.67" z="901.333" r="140" d="2"/>
-                <zone name="InfectedCity" smin="4" smax="5" dmin="5" dmax="10" x="5632" z="1006.67" r="100" d="2"/>
-                <zone name="InfectedCity" smin="4" smax="7" dmin="4" dmax="9" x="5393.67" z="1303.67" r="100" d="2"/>
-                <zone name="InfectedCity" smin="3" smax="5" dmin="4" dmax="10" x="5101.33" z="1292" r="100" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="4" dmin="4" dmax="8" x="5712" z="2657" r="50" d="2"/>
-                <zone name="InfectedCity" smin="1" smax="2" dmin="5" dmax="8" x="5741" z="2546" r="60" d="2"/>
-                <zone name="InfectedCity" smin="1" smax="2" dmin="3" dmax="8" x="5570" z="2682" r="60" d="2"/>
-                <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="5" x="5492" z="3375" r="60" d="2"/>
-                <zone name="InfectedCity" smin="0" smax="0" dmin="8" dmax="18" x="3418.4" z="2811.8" r="120" d="2"/>
-                <zone name="InfectedIndustrial" smin="1" smax="2" dmin="1" dmax="4" x="6706.4" z="3551.2" r="50" d="2"/>
-                <zone name="InfectedCity" smin="6" smax="10" dmin="5" dmax="10" x="6453.33" z="3516.67" r="50" d="2"/>
-                <zone name="InfectedCity" smin="6" smax="10" dmin="3" dmax="8" x="6612" z="3461.33" r="50" d="2"/>
-            </territory>
-            <territory name="Firefighter" visible="0" color="1790009876">
-                <zone name="InfectedFirefighter" smin="2" smax="5" dmin="2" dmax="5" x="5586.25" z="1134.25" r="100" d="2"/>
-                <zone name="InfectedFirefighter" smin="1" smax="2" dmin="2" dmax="5" x="6530.12" z="3474.31" r="50" d="2"/>
-                <zone name="InfectedFirefighter" smin="1" smax="2" dmin="2" dmax="5" x="6624.8" z="1631.2" r="50" d="2"/>
-            </territory>
-            <territory name="City" visible="0" color="1136576269">
-                <zone name="InfectedCity" smin="3" smax="6" dmin="5" dmax="9" x="5348" z="1084" r="420" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="4" dmin="10" dmax="15" x="5640" z="2608" r="240" d="2"/>
-                <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="8" x="3532" z="2892" r="240" d="2"/>
-                <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="21" x="6388" z="3936" r="160" d="2"/>
-            </territory>
-            <territory name="IndustrialT2" visible="0" color="4292911615">
-                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="10" dmax="21" x="2404" z="3888" r="160" d="2"/>
-                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="10" dmax="22" x="6688" z="3660" r="140" d="2"/>
-                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="7" dmax="16" x="6600" z="3912" r="112" d="2"/>
-                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="3474" z="5368" r="200" d="2"/>
-                <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="10" x="814" z="3963" r="100" d="2"/>
+            <territory name="Industrial" visible="1" color="1102461653">
+                <zone name="InfectedIndustrial" smin="2" smax="3" dmin="2" dmax="6" x="2556" z="5243.2" r="112" d="2"/>
             </territory>
         </territory-type>
-        <territory-type name="bear_territories">
-            <territory name="Bear1" visible="0" color="1908342784">
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5630" z="6870" r="200" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6072" z="5920" r="300" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6832" z="6132" r="210" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6360" z="6518" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5904" z="7350" r="75" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6088" z="7028" r="250" d="2"/>
+        <territory-type name="hen_territories">
+            <territory name="Tavaruk2" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6777.33" z="1789.33" r="70" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6910.67" z="1841.33" r="70" d="2"/>
             </territory>
-            <territory name="Bear3" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4432" z="3900" r="200" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3836" z="4008" r="200" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4172" z="3622" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3924" z="3696" r="100" d="2"/>
+            <territory name="Hen_DomikPetrova" visible="0" color="1023388160">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="2789.33" z="1028" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2866.67" z="1074.67" r="75" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2841.33" z="990.667" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2692" z="1004" r="70" d="2"/>
             </territory>
-            <territory name="Bear2" visible="0" color="4294902015">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4936" z="4624" r="250" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5832" z="4492" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4584" z="3868" r="100" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5244" z="4684" r="100" d="2"/>
-                <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5620" z="4984" r="250" d="2"/>
+            <territory name="Melingrad" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="2845.33" z="5298.67" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2689.33" z="5300" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2644" z="5396" r="50" d="2"/>
             </territory>
-        </territory-type>
-        <territory-type name="cattle_territories">
-            <territory name="cattle_azak" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6216" z="4386" r="250" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6112" z="4750" r="100" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5818" z="4552" r="100" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5888" z="4258" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6510" z="4784" r="150" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6398" z="5200" r="120" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6680" z="5128" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6846" z="5566" r="200" d="2"/>
+            <territory name="Tavaruk1" visible="0" color="4294964644">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6885.33" z="1387.33" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6993.33" z="1500" r="50" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6893.33" z="1540" r="50" d="2"/>
             </territory>
-            <territory name="cattle_anitova" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="3326.67" z="2961.33" r="200" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3434.67" z="3398.67" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3045.33" z="3232" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3854.67" z="3144" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3889.33" z="2837.33" r="100" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3176" z="2696" r="100" d="2"/>
+            <territory name="Hen_Viska" visible="0" color="1493150208">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="4222" z="1406" r="200" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4424" z="1468" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4334" z="1678" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4162" z="1648" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4232" z="1292" r="100" d="2"/>
             </territory>
-        </territory-type>
-        <territory-type name="sheep_goat_territories">
-            <territory name="Sheep_Pilava" visible="0" color="872412928">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5271" z="3299" r="100" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5423" z="3257" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5039" z="3484" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5189" z="3390" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5146" z="3194" r="50" d="2"/>
+            <territory name="Selina" visible="0" color="4278190080">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="6656" z="850.667" r="70" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6749.33" z="965.333" r="70" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6582.67" z="726.667" r="70" d="2"/>
             </territory>
-            <territory name="Sheep_Azak" visible="0" color="872412928">
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6704.15" z="4595.92" r="80" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6262.69" z="4656" r="120" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5989.28" z="4833.26" r="120" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6196.78" z="4316.62" r="140" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6494.38" z="4767.15" r="120" d="2"/>
+            <territory name="Hen_Midroc" visible="0" color="1056942592">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5648" z="2620" r="100" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5482.67" z="2674.67" r="60" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5566.67" z="2578.67" r="60" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5761.33" z="2556" r="50" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5732" z="2689.33" r="100" d="2"/>
             </territory>
-            <territory name="Sheep_Drezna" visible="0" color="872412928">
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5297" z="5342" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5438" z="5309" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5362" z="5175" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5200" z="5081" r="50" d="2"/>
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5192" z="5227" r="100" d="2"/>
-            </territory>
-            <territory name="Sheep_01" visible="0" color="872412928">
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3116.8" z="3376.8" r="92" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2857.33" z="3673.33" r="120" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3017.33" z="3821.33" r="50" d="2"/>
-                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3124" z="3596" r="50" d="2"/>
-            </territory>
-            <territory name="Sheep_02" visible="0" color="4278190080">
-                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5328" z="4692" r="100" d="2"/>
-                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5126" z="4639.33" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5464" z="4549" r="50" d="2"/>
-                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5181" z="4726" r="50" d="2"/>
+            <territory name="Hen_Borisovo" visible="0" color="1073719808">
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5168" z="896" r="160" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5104" z="1164" r="100" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5366" z="1338" r="160" d="2"/>
+                <zone name="" smin="0" smax="0" dmin="0" dmax="0" x="5622" z="1264" r="160" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5554" z="958" r="120" d="2"/>
             </territory>
         </territory-type>
-        <territory-type name="hare_territories"/>
     </territory-type-list>
 </zg-config>
