@@ -23,6 +23,8 @@
 	{
 		"lightingConfig": 1,
 		"objectSpawnersArr": []
+		"environmentMinTemps": [0, 0, 0, 4, 9, 14, 20, 17, 12, 7, 4, 0],
+		"environmentMaxTemps": [3, 5, 7, 14, 19, 23, 28, 25, 21, 16, 10, 5]
 	},
 	"BaseBuildingData":
 	{
