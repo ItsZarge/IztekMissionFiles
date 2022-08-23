@@ -1,27 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<event name="VehicleCivilianSedan">
-		<pos x="5372.528809" z="809.826416" a="89" />
-		<pos x="6718.052246" z="3524.851807" a="178" />
-		<pos x="6407.636230" z="3990.837158" a="90" />
-		<pos x="908.525024" z="3826.525879" a="181" />
-		<pos x="3573.347168" z="2852.527588" a="12" />
-		<pos x="2402.392822" z="3913.529053" a="225" />
+	<!-- a=0-15 is north ish-->
+	<!-- a=90 is east ish-->
+	<!-- a=180 is south ish-->
+	<!-- a=270 is west ish-->
+	<event name="VehicleCivilianSedan"> 
+		<pos x="5372.528809" z="809.826416" a="89" /> <!--Borisovo Int Hotel Park Lot -->
+		<pos x="6718.052246" z="3524.851807" a="178" /> <!--Azak warehouse park lot -->
+		<pos x="6407.636230" z="3990.837158" a="90" /> <!--Azak Little Town Beige House -->
+		<pos x="908.525024" z="3826.525879" a="181" /> <!--Vizhai P park lot -->
+		<pos x="2402.392822" z="3913.529053" a="225" /> <!--Rokki Rok Arkas Ind -->
+		<pos x="1424.934937" z="4417.368652" a="12" /> <!--vizhai Ind -->
+		<pos x="3643.476563" z="4089.401855" a="268" /> <!--Alenka PD -->
+		<pos x="2904.021973" z="3731.128418" a="12" /> <!--Three Houses East of Rokki Rok -->
+		<pos x="3431.449219" z="2857.359863" a="82" /> <!-- Anitova Arma 1 Flats South-->
+		<pos x="3574.729248" z="2852.529053" a="12" /> <!-- Anitova Houseblocks Parking Lot-->
+		<pos x="5788.209961" z="2652.309814" a="12" /> <!--Midroc East park lot -->
+		<pos x="7169.664063" z="1656.996338" a="12" /> <!--Tavaruk PD -->
 	</event>
 	<event name="VehicleSedan02">
-		<pos x="5360.920898" z="933.010864" a="14" />
-		<pos x="5554.331055" z="2491.704102" a="82" />
-		<pos x="6698.219727" z="3550.084229" a="89" />
-		<pos x="4170.831055" z="6379.933105" a="182" />
-		<pos x="2769.006104" z="6749.923340" a="90" />
-		<pos x="1511.198242" z="5887.646973" a="178" />
+		<pos x="5360.920898" z="933.010864" a="14" /> <!--Borisovo Park Lot Middle by Hunt Store -->
+		<pos x="5554.331055" z="2491.704102" a="82" /> <!--Midroc Gas Station -->
+		<pos x="6698.219727" z="3550.084229" a="89" /> <!--Azak Warehouse -->
+		<pos x="4170.831055" z="6379.933105" a="182" /> <!--Arika Bridge Mili Checkpoint -->
+		<pos x="2769.006104" z="6749.923340" a="90" /> <!--Belovo/Volkovo Pub -->
+		<pos x="1511.198242" z="5887.646973" a="178" /> <!--Housing Area just south of Arkada Island bridge -->
+		<pos x="868.296814" z="3886.513184" a="12" /> <!-- Vizhai P-->  
+		<pos x="1487.953125" z="4334.374512" a="12" /> <!-- Vizhai Fire-->
+		<pos x="2797.387695" z="4568.092285" a="12" /> <!-- Loisant House-->
+		<pos x="3613.923340" z="3907.553223" a="1" /> <!--Alenka Medical -->
+		<pos x="2424.636963" z="2141.877441" a="45" /> <!--Dashina -->
+		<pos x="3479.449707" z="2918.126953" a="12" /> <!--Anitova Arma 1 Flats North -->
+		<pos x="3379.355469" z="2758.325195" a="12" /> <!--Anitova Church -->
+		<pos x="5519.489258" z="2584.858887" a="265" /> <!--Midroc Medical park lot -->
+		<pos x="6264.727051" z="1971.462036" a="12" /> <!--Novinka -->
 	</event>
 	<event name="VehicleHatchback02">
-		<pos x="5584.834473" z="1083.688599" a="268" />
-		<pos x="6567.367676" z="3575.419189" a="228" />
-		<pos x="6429.933105" z="3700.810547" a="135" />
-		<pos x="1749.442261" z="4985.026367" a="90" />
-		<pos x="1364.241943" z="6965.592773" a="91" />
+		<pos x="5584.834473" z="1083.688599" a="268" /> <!--Borisovo Fire Park Lot -->
+		<pos x="6567.367676" z="3575.419189" a="228" /> <!--Azak Parkwalk Flats Park Lot -->
+		<pos x="6429.933105" z="3700.810547" a="135" /> <!--Azak PD Houseblock Park Lot -->
+		<pos x="1749.442261" z="4985.026367" a="90" /> <!--Spod -->
+		<pos x="1364.241943" z="6965.592773" a="91" /> <!--Arkada Park Lot -->
+		<pos x="848.063965" z="3807.544922" a="12" /> <!-- Vizhai P-->
+		<pos x="932.637878" z="3887.121338" a="12" /> <!--Vizhai P -->
+		<pos x="3661.130371" z="4050.807617" a="3" /> <!--Alenka Grocery -->
+		<pos x="3073.359619" z="2932.736572" a="259" /> <!--CP-14 -->
+		<pos x="3825.185059" z="2529.605957" a="90" /> <!--Lonely Wood house SE of Anitova -->
+		<pos x="5541.102051" z="2761.459717" a="12" /> <!--Midroc North park lot -->
+		<pos x="6758.393555" z="1018.587402" a="75" /> <!--Selina -->
 	</event>
     <event name="Static_LootDrop">
 		<zone smin="0" smax="0" dmin="3" dmax="5" r="45" />
@@ -147,10 +173,18 @@
 	</event>
     <event name="Loot" />
     <event name="VehicleOffroadHatchback">
-		<pos x="4119.901367" z="1253.665894" a="250" />
-		<pos x="6455.702637" z="3445.161133" a="252" />
-		<pos x="5202.677246" z="5268.745117" a="92" />
-		<pos x="5549.814941" z="3164.728760" a="45" />
+		<pos x="4119.901367" z="1253.665894" a="250" /> <!--Viska -->
+		<pos x="6455.702637" z="3445.161133" a="252" /> <!--Azak small housing area by Azak Hotel -->
+		<pos x="5202.677246" z="5268.745117" a="92" /> <!--Drezna-- -->
+		<pos x="5549.814941" z="3164.728760" a="45" /> <!--Pilava Farm House -->
+		<pos x="884.544189" z="3848.801514" a="12" /> <!--Vizhai P -->
+		<pos x="2242.894043" z="4545.984375" a="81" /> <!--Karmanova -->
+		<pos x="2916.899170" z="4574.844238" a="12" /> <!--Camp Loisant -->
+		<pos x="3763.066895" z="3990.835938" a="12" /> <!-- Alenka Office Parking-->
+		<pos x="2915.261475" z="3719.285156" a="12" /> <!--Three Houses East of Rokki Rok -->
+		<pos x="3655.239502" z="2949.458740" a="87" /> <!--Anitova Moustache House -->
+		<pos x="5548.017578" z="3358.779785" a="12" /> <!-- Pilava Beige House-->
+		<pos x="6166.860352" z="2366.633057" a="275" /> <!--Camp north of Novinka -->
     </event>
     <event name="StaticPoliceCar">
 		<zone smin="0" smax="0" dmin="0" dmax="0" r="45" />
@@ -180,11 +214,28 @@
 		<pos x="8009.405273" z="12670.776367" a="89.023911" />
     </event>
     <event name="VehicleTruck01">
-		<pos x="3567.157715" z="5254.083008" a="2" />
-		<pos x="3252.765137" z="2271.641113" a="50" />
-		<pos x="4227.789063" z="4639.115723" a="130" />
-		<pos x="5396.458496" z="3314.937256" a="50" />
-		<pos x="1230.270996" z="7216.376953" a="2" />
+		<pos x="3567.157715" z="5254.083008" a="2" /> <!--Karosie 1-->
+		<pos x="3252.765137" z="2271.641113" a="50" /> <!--Zenigrad -->
+		<pos x="4227.789063" z="4639.115723" a="130" /> <!--Izco entrence road -->
+		<pos x="5396.458496" z="3314.937256" a="50" /> <!--Pilava farm -->
+		<pos x="1230.270996" z="7216.376953" a="2" /> <!--Goraz MB -->
+		<pos x="1475.100220" z="4358.349121" a="12" /> <!--Vizhai Ind -->
+		<pos x="1778.910156" z="3953.141846" a="12" /> <!--Overgrown Farm -->
+		<pos x="2211.420898" z="4500.871094" a="12" /> <!--Karmanova -->
+		<pos x="2384.503662" z="3932.155518" a="87" /> <!--Rokki Rok West -->
+		<pos x="2477.263672" z="3846.258301" a="12" /> <!--Rokki Rok East -->
+		<pos x="3366.478271" z="2862.013672" a="12" /> <!--Anitova Farm -->
+		<pos x="3224.877930" z="2396.545898" a="12" /> <!-- Broken down house south of Anitova-->
+		<pos x="5373.164063" z="3371.016357" a="12" /> <!-- Pilava-->
+		<pos x="7303.589844" z="5155.373047" a="90" /> <!--Emenka 1 -->
+		<pos x="7236.375488" z="5288.866699" a="270" /> <!--Emenka 2-->
+		<pos x="6348.290039" z="5247.114746" a="90" /> <!--Wooden House NW of Emenka -->
+		<pos x="3510.288818" z="5203.779297" a="85" /> <!-- Karosie 2-->
+		<pos x="2579.884521" z="5224.133789" a="252" /> <!-- Melingrad Docks-->
+		<pos x="2830.238770" z="6150.213379" a="175" /> <!--Wood House South of Volkovo -->
+		<pos x="2878.303955" z="4497.382324" a="3" /> <!--Loisant Boathouse -->
+		<pos x="4518.463379" z="836.491577" a="102" /> <!--Saka Barnhouse -->
+		<pos x="5451.964844" z="3802.186768" a="25" /> <!--AMC-->
 	</event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
