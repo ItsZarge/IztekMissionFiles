@@ -744,7 +744,7 @@
         <limit>child</limit>
         <active>0</active>
         <children>
-            <child lootmax="10" lootmin="6" max="2" min="5" type="Land_Static_LootDrop_christmas"/>
+            <child lootmax="10" lootmin="6" max="3" min="5" type="Land_Static_LootDrop_christmas"/>
         </children>
     </event>
     <event name="StaticPoliceCar">
@@ -767,7 +767,7 @@
         </children>
     </event>
     <event name="TrajectoryApple">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -778,13 +778,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="Apple"/>
         </children>
     </event>
     <event name="TrajectoryCanina">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -795,13 +795,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="CaninaBerry"/>
         </children>
     </event>
     <event name="TrajectoryConiferous">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -812,14 +812,14 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="BoletusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="MacrolepiotaMushroom"/>
         </children>
     </event>
     <event name="TrajectoryDeciduous">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -830,13 +830,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom"/>
         </children>
     </event>
     <event name="TrajectoryHumus">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -847,14 +847,14 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="AgaricusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="PleurotusMushroom"/>
         </children>
     </event>
     <event name="TrajectoryPear">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -865,13 +865,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="Pear"/>
         </children>
     </event>
     <event name="TrajectoryPlum">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -882,13 +882,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/>
         </children>
     </event>
     <event name="TrajectorySambucus">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -899,13 +899,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="SambucusBerry"/>
         </children>
     </event>
     <event name="TrajectoryStones">
-        <nominal>50</nominal>
+        <nominal>22</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
@@ -916,7 +916,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>
         </children>
@@ -952,7 +952,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Black"/>
@@ -990,7 +990,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Grey"/>
