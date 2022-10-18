@@ -38,9 +38,4 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     <ce folder="Izco">
 	<file name="Izco_types.xml" type="types" />
 	</ce>
-	<ce folder="Mods">
-	<file name="AWS.xml" type="types" />
-	<file name="sbagz.xml" type="types" />
-	<file name="wind.xml" type="types" />
-	</ce>
 </economycore>
