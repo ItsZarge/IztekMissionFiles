@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists>
+    <categories>
+        <category name="tools"/>
+        <category name="containers"/>
+        <category name="clothes"/>
+        <category name="vehiclesparts"/>
+        <category name="food"/>
+        <category name="weapons"/>
+        <category name="books"/>
+        <category name="explosives"/>
+		<category name="armor"/>
+		<category name="antidote"/>
+		<category name="lore"/>
+		<category name="keycard"/>
+		<category name="glassvial"/>
+		<category name="ircmedic"/>
+		<category name="dzi"/>
+		<category name="weaponsIzco"/>
+        <category name="weaponsCrypt"/>
+        <category name="weaponsLab"/>
+        <category name="crypt"/>
+    </categories>
+    <tags>
+        <tag name="floor"/>
+        <tag name="shelves"/>
+        <tag name="ground"/>
+		<tag name="cfloor"/>
+        <tag name="weapons"/>
+        <tag name="crypt"/>
+        <tag name="lab"/>
+    </tags>
+    <usageflags>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Izco"/>
+		<usage name="IRC"/>
+        <usage name="Lab"/>
+        <usage name="lorelow"/>
+        <usage name="Crypt"/>
+    </usageflags>
+    <valueflags>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+        <value name="Tier7"/>
+    </valueflags>
+</lists>
