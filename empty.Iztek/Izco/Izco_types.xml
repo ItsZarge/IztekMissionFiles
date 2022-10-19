@@ -115,10 +115,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="IRC"/>
         <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-        <value name="Tier5"/>
         <value name="Tier6"/>
         <value name="Tier7"/>
     </type>
@@ -149,9 +147,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="IRC"/>
         <usage name="Military"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
         <value name="Tier6"/>
         <value name="Tier7"/>
     </type>
@@ -171,6 +168,22 @@
         <value name="Tier6"/>
         <value name="Tier7"/>
     </type>
+    <type name="IZCOHelmet_Officer">
+        <nominal>8</nominal>
+        <lifetime>5000</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <usage name="Lab"/>
+        <usage name="IRC"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+    </type>
 	<type name="IZCO_Holster_Guard_black">
         <nominal>5</nominal>
         <lifetime>5000</lifetime>
@@ -181,11 +194,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="IRC"/>
         <usage name="Military"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-		<value name="Tier6"/>
+        <value name="Tier6"/>
         <value name="Tier7"/>
     </type>
 	<type name="IZCO_Holster_Guard">
@@ -216,11 +227,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
 		<usage name="IRC"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-        <value name="Tier5"/>
+        <usage name="Military"/>
         <value name="Tier6"/>
         <value name="Tier7"/>
     </type>
@@ -272,7 +280,20 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	
+	<type name="LabCoat_IRC">
+        <nominal>8</nominal>
+        <lifetime>8000</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <usage name="Lab"/>
+        <value name="Tier7"/>
+    </type>
 	<!--IZCO END-->
 	
 	
@@ -604,18 +625,18 @@
 		<value name="Tier7"/>
     </type>
 	
-    <type name="SVD_zarge"> <!--Just done some testing with the svd so don't mind this-->
-        <nominal>0</nominal>
+    <type name="SVD_zarge">
+        <nominal>1</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weaponsCrypt"/>
-        <usage name="Crypt"/>
-        <value name="Tier4"/>
+        <category name="weapons"/>
+        <usage name="IRC"/>
+        <value name="Tier6"/>
     </type>
 	<!--Weapons END-->
 	
