@@ -400,10 +400,10 @@
         <category name="weapons"/>
     </type>
     <type name="ASVAL">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>6000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -411,6 +411,9 @@
         <category name="weaponsIzco"/>
         <usage name="Military"/>
 		<usage name="IRC"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
 		<value name="Tier6"/>
     </type>
     <type name="AgaricusMushroom">
@@ -6032,15 +6035,16 @@
         <usage name="Industrial"/>
     </type>
     <type name="FAL">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <category name="weaponsLab"/>
 		<usage name="Lab"/>
 		<value name="Tier7"/>
     </type>
@@ -10318,7 +10322,7 @@
         <category name="food"/>
     </type>
 	<type name="M14">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>5000</lifetime>
 		<restock>0</restock>
 		<min>1</min>
@@ -10327,6 +10331,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
+        <category name="weaponsLab"/>
 		<usage name="Lab"/>
 		<value name="Tier7"/>
 	</type>
@@ -10355,8 +10360,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <category name="weaponsLab" />
-        <tag name="floor" />
-		<tag name="lab" />
         <usage name="Lab"/>
         <value name="Tier7"/>
     </type>
@@ -11242,6 +11245,40 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
+	<type name="Mag_M14_10Rnd">
+		<nominal>15</nominal>
+		<lifetime>5000</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>30</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+	</type>
+	<type name="Mag_M14_20Rnd">
+		<nominal>12</nominal>
+		<lifetime>5000</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>30</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+	</type>
     <type name="Mag_MKII_10Rnd">
         <nominal>30</nominal>
         <lifetime>5000</lifetime>
@@ -13726,20 +13763,22 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="PlateCarrierVest">
-        <nominal>2</nominal>
-        <lifetime>6000</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-        <value name="Tier5"/>
-    </type>
+	<type name="PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>5000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+	</type>
     <type name="PlateCarrierVest_Black">
         <nominal>1</nominal>
         <lifetime>6000</lifetime>
