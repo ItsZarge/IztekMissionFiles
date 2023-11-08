@@ -52,6 +52,7 @@
         <usage name="Lab"/>
         <usage name="lorelow"/>
         <usage name="Crypt"/>
+        <usage name="Castle"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

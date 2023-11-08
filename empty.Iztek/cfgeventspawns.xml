@@ -4,6 +4,24 @@
 	<!-- a=90 is east ish-->
 	<!-- a=180 is south ish-->
 	<!-- a=270 is west ish-->
+
+	<event name="TreasureMap">
+		<pos x="3527.3" z="2628.73" a="90"/>
+		<pos x="3527.45" z="2624.81" a="-90"/>
+		<pos x="3534.93" z="2624.71" a="-90"/>
+		<pos x="3532.15" z="2623.49" a="90"/>
+		<pos x="3530.43" z="2628.97" a="-90"/>
+		<pos x="3527.57" z="2636.14" a="90"/>
+		<pos x="3531.86" z="2636.09" a="-90"/>
+		<pos x="3540.18" z="2633.31" a="90"/>
+		<pos x="3544.09" z="2629.44" a="90"/>
+		<pos x="3543.02" z="2631.08" a="90"/>
+		<pos x="3544.45" z="2635.49" a="90"/>
+		<pos x="3545.72" z="2630.8" a="90"/>
+		<pos x="3544.61" z="2624.79" a="90"/>
+		<pos x="3547.08" z="2625.49" a="90"/>
+		<pos x="3539.6" z="2622.84" a="90"/>
+	</event>
 	<event name="VehicleCivilianSedan"> 
 		<pos x="5372.528809" z="809.826416" a="89" /> <!--Borisovo Int Hotel Park Lot -->
 		<pos x="6718.052246" z="3524.851807" a="178" /> <!--Azak warehouse park lot -->
@@ -241,9 +259,11 @@
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />
+    <event name="InfectedArmyHard" />
     <event name="InfectedCity" />
     <event name="InfectedMedic" />
     <event name="InfectedPolice" />
+    <event name="InfectedPoliceHard" />
     <event name="InfectedFirefighter" />
     <event name="InfectedPrisoner" />
     <event name="AnimalDeer" />
