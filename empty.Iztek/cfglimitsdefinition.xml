@@ -46,8 +46,9 @@
         <usage name="Prison"/>
         <usage name="Lunapark"/>
         <usage name="SeasonalEvent"/>
-		<usage name="ContaminatedArea"/>
-		<usage name="Izco"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Izco"/>
 		<usage name="IRC"/>
         <usage name="Lab"/>
         <usage name="lorelow"/>

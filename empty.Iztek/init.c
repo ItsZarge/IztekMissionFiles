@@ -6,9 +6,9 @@ void main()
 		ce.InitOffline();
 
 	//CEApi TestHive = GetCEApi();
-	//TestHive.ExportProxyProto();
-	//GetCEApi().ExportProxyData( "4096 0 4096", 8192 );
-	//GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
+    //GetCEApi().ExportProxyProto();
+    //GetCEApi().ExportProxyData( "4096 0 4096", 8192 );
+    //GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
 	//GetCEApi().ExportClusterData() ;
    // DeleteAllItemsInMap();
 
