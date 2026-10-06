@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
     <event name="izLootDrop">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <min>3</min>
         <max>5</max>
         <lifetime>5000</lifetime>
