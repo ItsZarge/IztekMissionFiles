@@ -108,5 +108,9 @@
 	"VehicleData":
 	{
 		"boatDecayMultiplier": 1
+		"canDetachAttachedCarWheels": true,
+		"canDamageAttachedCarWheels": true,
+		"canDetachAttachedBikeWheels": true,
+		"canDamageAttachedBikeWheels": true
 	}
 }
