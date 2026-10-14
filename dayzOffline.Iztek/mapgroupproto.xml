@@ -1678,7 +1678,6 @@
 						<point pos="6.010 -0.498 2.820" range="1.0" height="1.0" />
 						<point pos="7.242 -0.498 5.833" range="1.0" height="1.0" />
 						<point pos="2.620 -0.498 7.237" range="1.0" height="1.0" />
-
 				</container>
 				<container name="lootshelves" lootmax="28"> <!--62-->
 						<category name="tools" />
